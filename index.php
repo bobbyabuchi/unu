@@ -1,4 +1,1 @@
-<?php
-$message = "Hello Word!";
-echo $message;
-?>
+<a href="page.php">TestPHP</a>
